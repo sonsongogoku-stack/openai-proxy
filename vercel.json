@@ -1,8 +1,0 @@
- {
-  "rewrites": [
-    {
-      "source": "/myproxy/(.*)",
-      "destination": "https://openrouter.ai/$1"
-    }
-  ]
-}
